@@ -1,6 +1,8 @@
-# sahyadri_farms
+# Sahyadri Farms Flutter
 
-A new Flutter application.
+A Flutter application.
+
+<img src="https://user-images.githubusercontent.com/71315238/103169785-ec1a2d00-4864-11eb-9f60-6fd3bd67907b.jpg" width="200" height="400" /> 
 
 ## Getting Started
 
